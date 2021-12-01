@@ -1,0 +1,1 @@
+Adapting Colley's unbiased method for ranking college football teams into python codes using 2 different alorithms: one based on matrices, the other using an iterative algorithm. Includes code to scrape historical football data from the web.
